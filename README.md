@@ -1,2 +1,3 @@
 Author: Kenny Collins
-Using polynomial linear regression on a nonlinear dataset to predict the salary of different positions.
+Utilizing different forms of regression to practice old concepts.
+In this repo, I use polynomal linear regression, support vector regression, decision tree regression, and random forest regression.
